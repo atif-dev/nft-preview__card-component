@@ -29,16 +29,16 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### Screenshots
 
-![PC View](https://github.com/atif-dev/qr-code-component/blob/main/screenshots/screen(1400%20by%20900).jpg?raw=true)
-![Mobile view](https://github.com/atif-dev/qr-code-component/blob/main/screenshots/Phone%20X.jpg?raw=true)
+![PC View](https://github.com/atif-dev/nft-preview__card-component/blob/main/Screenshots/desktop-1440%20x%20900.png?raw=true)
+![Mobile view](https://github.com/atif-dev/nft-preview__card-component/blob/main/Screenshots/iphone%20X.png?raw=true)
   <p>Find other screenshots in screenshots directory</p>
 
 ### Links
 
 - Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/qr-code-component-8rbBF0ujNj
-- Live Site URL: https://atif-dev.github.io/qr-code-component/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=syv51wl9mIZpGdz5-lC7UQ
-- GitHub repo : https://github.com/atif-dev/qr-code-component
+- Live Site URL: https://atif-dev.github.io/nft-preview__card-component/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=neNUY4bkGPNZr8tpbflMEw
+- GitHub repo : https://github.com/atif-dev/nft-preview__card-component
 
 ## My process
 
