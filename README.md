@@ -35,7 +35,7 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### Links
 
-- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/qr-code-component-8rbBF0ujNj
+- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/nft-preview-card-component-esjPYS6HLk
 - Live Site URL: https://atif-dev.github.io/nft-preview__card-component/
 - Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=neNUY4bkGPNZr8tpbflMEw
 - GitHub repo : https://github.com/atif-dev/nft-preview__card-component
