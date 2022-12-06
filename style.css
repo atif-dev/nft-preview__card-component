@@ -81,7 +81,8 @@ ul{
 
 .item-pushRight{
     margin-left: auto;
-    margin-top: .15em;
+/*    margin-top: .15em;*/
+    align-self: flex-end;
 
 }
 .eth-value{
