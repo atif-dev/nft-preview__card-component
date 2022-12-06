@@ -42,12 +42,12 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ## My process
 
-  - Use existing knowledge.
-  - Explore things over Internet according to need.
+  - Used existing knowledge.
+  - Explored things over Internet according to need.
   - Used Responsively desktop app for responsiveness of some screens.
   - Used LT browser for checking responsiveness and screenshots.
-  - See someone's code for an issue, modify the code and used it.
-  - Check responsiveness for following screens:
+  - Seen someone's code for an issue, modify the code and used it.
+  - Checked responsiveness for following screens:
 	  - [x] 375 * 812
 	  - [x] 1280 * 950
 	  - [x] 720 * 1280
